@@ -1,4 +1,4 @@
-# KindleQuotes
+# New Zealand Jobs
 Utilizing information from Seek.co.nz, the script gets  the number of jobs posted in New Zealand per City. It generates a barchar with the jobs available to apply. After reading the graph, you could know for example:
 
 * How many jobs are per any particular technology
